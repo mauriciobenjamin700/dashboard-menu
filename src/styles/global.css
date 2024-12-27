@@ -1,0 +1,14 @@
+body{
+    background-color: #36284a;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, div, span, a {
+    margin: 0;
+    padding: 0;
+}
+
+h1, p{
+    color: white;
+    font-weight: bold;
+    /* text-transform: uppercase; */
+}
